@@ -1,7 +1,7 @@
 """
 Created by Vince Paul Juguilon
 CMPL-Semicon
-Energy calculator for quantum well (C1/HH1/LH1
+Energy calculator for quantum well (C1/HH1/LH1)
 02/02/2018
 """
 
